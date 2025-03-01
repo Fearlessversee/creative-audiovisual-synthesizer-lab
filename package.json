@@ -1,0 +1,25 @@
+{
+  "name": "@taliyo/creative-audiovisual-lab",
+  "version": "1.0.0",
+  "description": "Creative experiment sandbox with dynamic sound integration, particle bursts, reactive canvas physics, and spring animations.",
+  "private": true,
+  "author": "Taliyo Technologies <info@taliyotechnologies.com>",
+  "homepage": "https://www.taliyotechnologies.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virajverse/creative-audiovisual-lab.git"
+  },
+  "scripts": {
+    "start": "python serve.py",
+    "dev": "python serve.py",
+    "preview": "python serve.py"
+  },
+  "keywords": [
+    "taliyo-technologies",
+    "virajverse",
+    "commercial-product",
+    "interactive-audio-visual-labs",
+    "frontend-showcase"
+  ],
+  "license": "Commercial / Proprietary"
+}

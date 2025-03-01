@@ -1,0 +1,223 @@
+[
+    
+  {
+    "slug":"msft",
+    "project":"Microsoft Ads",
+    "client":"Craft",
+    "cat":"1",
+    "deliverables":"Standard and rich media HTML5 ads.",
+    "notes":"Microsoft has so many well-known products. I've had the privilege of working on quite a few of their digital ad campaigns. Below are some of my favorites...",
+
+    "txtColor":"#fff",
+
+    "bg":"#333",
+    
+    "fg":"img/msftLogo.svg",
+
+    "item1":"{'file':'msft_xbox_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 149 KB'}",
+    
+    "item2":"{'file':'msft_teams1_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 112 KB'}",
+    
+    "item3":"{'file':'msft_teams2_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 122 KB'}",
+    
+    "item4":"{'file':'msft_allday_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 64 KB'}",
+    
+    "item5":"{'file':'msft_bing_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 98 KB'}"
+  },
+  {
+    "slug":"vz",
+    "project":"Verizon Ads",
+    "client":"Craft",
+    "cat":"1",
+    "deliverables":"Standard HTML5 ads. Multiple creative versions.",
+    "notes":"SVG image sequences, complex mask reveals, LOADS of key-frames and detailed stagger effects; these are some of the most challenging and fun ads I've ever built.",
+    
+    "txtColor":"#fff",
+
+    "bg":"#000",
+    
+    "fg":"img/vzLogo.svg",
+
+    "item1":"{'file':'vz_pixel_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 57 KB'}",
+
+    "item2":"{'file':'vz_ultra_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 87 KB'}",    
+    
+    "item3":"{'file':'vz_5G_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 22 KB'}",
+    
+    "item4":"{'file':'vz_galaxyS10_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 123 KB'}",
+    
+    "item5":"{'file':'vz_fastest_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 27 KB'}",
+    
+    "item6":"{'file':'vz_music_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 106 KB'}",
+    
+    "item7":"{'file':'vz_beFirst_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 164 KB'}"
+  },
+  {
+    "slug":"amex",
+    "project":"AMEX Shop Small Mobile Ad",
+    "client":"My My Star",
+    "link":"https://www.creativeocean.com/review/mymystar/amex/320x480/",
+    "linkLabel":"View Project",
+    "cat":"1",
+    "deliverables":"Geo-targeted, dynamic rich media ads.",
+    "notes":"<p>Built using intricate sprite-sheet animations provided by My My Star, Creative Ocean developed this bustling interactive town to promote American Express's 'Shop Small' initiative. Geo-targeting and dynamic versioning were acheived using the FlashTalking API.</p>",
+
+    "txtColor":"#fff",
+
+    "bg":"#0c81dc",
+    
+    "fg":"img/amexLogo.svg",
+
+    "item1":"{'file':'amex_shopSmall.mp4', 'w':320, 'h':480, 'info':'HTML5 Mobile Ad ⋮ 320x480 ⋮ 265 KB'}"
+  },
+  {
+    "slug":"freshmarket",
+    "project":"Fresh Market Ads",
+    "client":"The Fresh Market",
+    "cat":"1",
+    "deliverables":"Ongoing standard HTML5 ad campaigns, since 2019.",
+    "notes":"Working with their in-house marketing department, I've built dozens of seasonal and promotional campaigns for this refreshing grocery chain.",
+
+    "txtColor":"darkGreen",
+
+    "bg":"#82bc00",
+    
+    "fg":"img/freshmarketLogo.svg",
+
+    "item1":"{'file':'fm_mmk_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 140 KB'}",
+    
+    "item2":"{'file':'fm_ham_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 122 KB'}",
+    
+    "item3":"{'file':'fm_easyMeals_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 124 KB'}",
+    
+    "item4":"{'file':'fm_lucky_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 112 KB'}",
+    
+    "item5":"{'file':'fm_holiday_420x350.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 98 KB'}"
+  },
+  {
+    "slug":"msi",
+    "project":"MSI Chicago Ads",
+    "client":"MSIC + HECO Partners",
+    "link":"",
+    "linkLabel":"View Campaigns",
+    "cat":"1",
+    "deliverables":"Standard HTML5 ads. Multiple creative versions and campaigns.",
+    "notes":"HECO always has great design and animation direction. The campaigns we've built for MSI Chicago are fun and playful!",
+
+    "txtColor":"#fff",
+
+    "bg":"#030e25",
+    
+    "fg":"img/msiLogo.svg",
+
+    "item1":"{'file':'msi_vggd.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 88 KB'}",
+    
+    "item2":"{'file':'msi_wtw.mp4', 'w':420, 'h':350, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 193 KB'}",
+    
+    "item3":"{'file':'msi_lego1.mp4', 'w':318, 'h':478, 'info':'Standard HTML5 ⋮ 320x480 ⋮ 126 KB'}",
+
+    "item4":"{'file':'msi_lego2.mp4', 'w':318, 'h':478, 'info':'Standard HTML5 ⋮ 320x480 ⋮ 96 KB'}"
+  },
+  
+  {
+    "slug":"dairy",
+    "project":"Undeniably Dairy Ads",
+    "client":"Edelman",
+    "cat":"1",
+    "deliverables":"Standard HTML5 ads. All the usual sizes, plus a few custom ones. Multiple creative versions.",
+    "notes":"In the 'Smoothies' campaign, the milk pour was captured on a broadcast shoot. In order to fit under 200kb, the video was converted to a sprite-sheet, and then made transparent at runtime using the Canvas API.",
+    
+    "txtColor":"#000",
+
+    "bg":"url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//CABEIAF4AXgMBIgACEQEDEQH/xAAaAAADAQEBAQAAAAAAAAAAAAABAgMABQQG/9oACAEBAAAAAPo6OUSMoxlPv0oUnGMoyl3qPlnKMoyl3KMVnOUZSn2HYqk5ylOXVckIk5zknRc4KiTSae5jgFRERPWxwCqiprk4AKq7OdsABttjsNttv//EABcBAQEBAQAAAAAAAAAAAAAAAAABBAX/2gAKAgIQAxAAAADXzIoogCiAKAAslAsAAP/EABsQAQEBAQEBAQEAAAAAAAAAAAABAhIRECAw/9oACAEBAAE/AMxIkeLGo000000yiKrTTTTTSs1KlerWq1Wmmmmmamk06XS1qtVqtVpU0mnTpdLpqtVqtVqqmk06dLpdLprS1a1VqaTTp06XS6WrVq1amk07dul0ulq1at+TTp06dLpdLpat+9OnTp0ulq1b+OnTp66dLXv79evf4f/EABQRAQAAAAAAAAAAAAAAAAAAAFD/2gAIAQIBAT8AE//EABQRAQAAAAAAAAAAAAAAAAAAAFD/2gAIAQMBAT8AE//Z)",
+    
+    "fg":"img/dairyLogo.svg",
+
+    "item1":"{'file':'dairy_smoothie.mp4', 'w':420, 'h':420, 'info':'Standard HTML5 ⋮ 600x600 ⋮ 168 KB'}",
+    
+    "item2":"{'file':'dairy_pizza.mp4', 'w':332, 'h':142, 'info':'Standard HTML5 ⋮ 300x600 ⋮ 112 KB'}",
+    
+    "item3":"{'file':'dairy_nachos.mp4', 'w':398, 'h':332, 'info':'Standard HTML5 ⋮ 300x250 ⋮ 144 KB'}"
+
+  },
+  {
+    "slug":"gsap",
+    "project":"GSAP Homepage Header",
+    "client":"GreenSock",
+    "link":"https://www.greensock.com/",
+    "linkLabel":"Visit GreenSock.com",
+    "cat":"2",
+    "deliverables":"Homepage header redesign and build.",
+    "notes":"<p>GSAP.js is my most essential work tool, so I was deeply honored to help redesign their homepage header. I created a custom carousel of animated/interactive demos, showcasing a range of style and use cases. A CodePen link is included so you can see how each was built.</p>",
+
+    "txtColor":"#fff",
+
+    "bg":"#262626",
+
+    "fg":"img/gsapLogo.svg",
+
+    "item1":"{'file':'gsap_header.mp4', 'w':'1200', 'h':'720', 'info':'4 GSAP.js demos, in a custom-built carousel (also built with GSAP)'}"
+  },
+  {
+    "slug":"abbvie",
+    "project":"AbbVie Culture Kit",
+    "client":"Prophet",
+    "link":"https://culturekit.abbvie.net/",
+    "linkLabel":"Visit the site",
+    "cat":"2",
+    "deliverables":"Responsive website supporting 18 languages.",
+    "notes":"<p>This microsite was created for the combined 50,000 employees of AbbVie and Allergan, as they merged. Both companies have offices around the world, so the biggest development challenge was building in such a way that localized content (especially in non-Western languages) would present well.</p>",
+
+    "txtColor":"#fff",
+
+    "bg":"#0c1a47",
+    
+    "fg":"img/abbvieLogo.svg",
+
+    "item1":"{'file':'abbvie_culture1.mp4', 'w':1024, 'h':640, 'info':'Page build'}",
+    
+    "item2":"{'file':'abbvie_culture2.mp4', 'w':1024, 'h':640, 'info':'Side nav scrolls to each section'}",
+    
+    "item3":"{'file':'abbvie_culture3.mp4', 'w':1024, 'h':640, 'info':'Language selection with 18 localizations'}"
+  },
+  {
+    "slug":"pwcCyber",
+    "project":"The Cyber Resilience Challenge",
+    "client":"Prophet + PwC",
+    "link":"http://creativeocean.com/review/prophet/pwc/st/",
+    "linkLabel":"View Project",
+    "cat":"2",
+    "deliverables":"Interactive quiz, built for use on a locked iPad and embeded on an intranet web page.",
+    "notes":"<p>To promote PwC's new cybersecurity platform, Secure Terrain, Creative Ocean took design direction from Prophet and PwC's internal creatives to develop this custom kiosk interface. Primarily used at stakeholder events, this subtly animated quiz and interactive case study was an important tool for educating clients and collecting sales leads.</p>",
+
+    "txtColor":"#000",
+
+    "bg":"linear-gradient(#ccc, #ddd 24%, #eee 90%)",
+    
+    "fg":"img/pwcLogo.svg",
+
+    "item1":"{'file':'pwc_secureTerrain1.mp4', 'w':1024, 'h':720, 'info':'Kiosk wait cycle'}",
+    
+    "item2":"{'file':'pwc_secureTerrain2.mp4', 'w':1024, 'h':720, 'info':'Quiz start screen, question 1'}",
+    
+    "item3":"{'file':'pwc_secureTerrain3.mp4', 'w':1024, 'h':720, 'info':'Question 3, email sign-up modal'}"
+  },
+  {
+    "slug":"frigo",
+    "project":"Frigo Cheesy Match Game",
+    "client":"Hangar12",
+    "cat":"2",
+    "link":"https://www.creativeocean.com/review/hangar12/frigo/match/index.html",
+    "linkLabel":"Play Now",
+    "deliverables":"Javascript-based matching game.",
+    "notes":"<p>I love building games (especially ones my kids enjoy playing)! The product images are random, but won't repeat until you've played a few rounds and seen everything once.</p>",
+
+    "txtColor":"#282525",
+
+    "bg":"rgb(253, 185, 20)",
+    
+    "fg":"img/frigoLogo.svg",
+
+    "item3":"{'file':'frigo.mp4', 'w':900, 'h':560, 'info':'How fast can you find all the matches?'}"
+  }
+]
